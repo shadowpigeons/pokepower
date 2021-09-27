@@ -1,10 +1,21 @@
-{
-	"name": "Bulbasaur",
+[{
+	"name": "bulbasaur",
 	"type": ["grass", "poison"],
+	"entry_dex_number": 1,
 	"hp": 45,
 	"attack": 49,
 	"defense": 49,
 	"special_attack": 65,
 	"special_defense": 65,
 	"speed": 45
-}
+},{
+	"name": "ivysaur",
+	"type": ["grass", "poison"],
+	"entry_dex_number": 2,
+	"hp": 60,
+	"attack": 62,
+	"defense": 63,
+	"special_attack": 80,
+	"special_defense": 80,
+	"speed": 60
+}]
